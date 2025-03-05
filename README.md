@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**pr0m3th3usEx/pr0m3th3usEx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- French Fullstack Software Engineer & Entrepreneur. Passionate about software architecture, Rust programming
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [sonik-swap](https://github.com/pr0m3th3usEx/sonik-swap)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning
+  - Edge computing
+  - WebAssembly
+  - Even-Driven Architecture
+- 📫 How to reach me:
+  - [thomas@twilson-software.net](mailto:thomas@twilson-software.net)
+  - [Linkedin](https://www.linkedin.com/in/twilson-fr/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pr0m3th3usEx)](https://github.com/anuraghazra/github-readme-stats)
