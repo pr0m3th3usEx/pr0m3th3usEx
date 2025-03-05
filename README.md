@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- French Fullstack Software Engineer & Entrepreneur. Passionate about software architecture, Rust programming
+- French Fullstack Software Engineer & Entrepreneur. Passionate about SaaS products, software architecture & rust programming
 
 - 🔭 I’m currently working on [sonik-swap](https://github.com/pr0m3th3usEx/sonik-swap)
 
