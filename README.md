@@ -8,6 +8,7 @@
   - Edge computing
   - WebAssembly
   - Even-Driven Architecture
+  - Web3
 - 📫 How to reach me:
   - [thomas@twilson-software.net](mailto:thomas@twilson-software.net)
   - [Linkedin](https://www.linkedin.com/in/twilson-fr/)
