@@ -9,8 +9,5 @@
   - WebAssembly
   - Even-Driven Architecture
   - Web3
-- 📫 How to reach me:
-  - [thomas@twilson-software.net](mailto:thomas@twilson-software.net)
-  - [Linkedin](https://www.linkedin.com/in/twilson-fr/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pr0m3th3usEx)](https://github.com/anuraghazra/github-readme-stats)
