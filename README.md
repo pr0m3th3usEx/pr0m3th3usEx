@@ -5,7 +5,4 @@
 - 🔭 I’m currently working on [Zenao](https://zenao.io)
 
 - 🌱 I’m currently learning
-  - Edge computing
-  - WebAssembly
-  - Even-Driven Architecture
-  - Web3
+  - Web3 (Smart-Contracts, Dapps, DeFi)
