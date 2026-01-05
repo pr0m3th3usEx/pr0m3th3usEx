@@ -5,4 +5,4 @@
 - 🔭 I’m currently working on [Zenao](https://zenao.io)
 
 - 🌱 I’m currently learning
-  - Web3 (Smart-Contracts, Dapps, DeFi)
+  - Web3 (Smart-Contracts, DAOs, DeFi)
