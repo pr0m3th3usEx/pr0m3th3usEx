@@ -6,3 +6,5 @@
 
 - 🌱 I’m currently learning
   - Web3 (Smart-Contracts, DAOs, DeFi)
+  - Rust Development
+  - HFT
